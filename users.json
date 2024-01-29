@@ -1,5 +1,4 @@
 {
-    "userData" : [
     {
       "id": 1,
       "name": "John Smith",
@@ -140,5 +139,4 @@
       "phone": "+15570123456",
       "country": "Cambodia"
     }
-  ]
 }
