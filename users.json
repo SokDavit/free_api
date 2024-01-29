@@ -1,19 +1,19 @@
 {
   "data":
   [
-    "id": "1": {
+    "id": 1: {
     "name": "Huo",
     "address": "Phnom Penh"
     },
-    "id": "2": {
+    "id": 2: {
       "name": "Ell",
       "address": "Phnom Penh"
     },
-    "id": "3": {
+    "id": 3: {
       "name": "Shan",
       "address": "Phnom Penh"
     },
-    "id": "4": {
+    "id": 4: {
       "name": "Haung",
       "address": "Phnom Penh"
     }
