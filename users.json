@@ -1,18 +1,21 @@
 {
-  "1": {
+  "data":
+  [
+    "1": {
     "name": "Huo",
     "address": "Phnom Penh"
-  },
-  "2": {
-    "name": "Ell",
-    "address": "Phnom Penh"
-  },
-  "3": {
-    "name": "Shan",
-    "address": "Phnom Penh"
-  },
-  "4": {
-    "name": "Haung",
-    "address": "Phnom Penh"
-  }
+    },
+    "2": {
+      "name": "Ell",
+      "address": "Phnom Penh"
+    },
+    "3": {
+      "name": "Shan",
+      "address": "Phnom Penh"
+    },
+    "4": {
+      "name": "Haung",
+      "address": "Phnom Penh"
+    }
+  ]
 }
