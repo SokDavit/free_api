@@ -1,22 +1,18 @@
-[
-  {
-    "id": 1,
+{
+  "1": {
     "name": "Huo",
     "address": "Phnom Penh"
   },
-  {
-    "id": 2,
+  "2": {
     "name": "Ell",
     "address": "Phnom Penh"
   },
-  {
-    "id": 3,
+  "3": {
     "name": "Shan",
     "address": "Phnom Penh"
   },
-  {
-    "id": 4,
+  "4": {
     "name": "Haung",
     "address": "Phnom Penh"
   }
-]
+}
